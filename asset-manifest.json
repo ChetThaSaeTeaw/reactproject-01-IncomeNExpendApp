@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactproject-01-IncomeNExpendApp/static/css/main.3b98bd6d.chunk.css",
+    "main.js": "/reactproject-01-IncomeNExpendApp/static/js/main.2af5e6f7.chunk.js",
+    "main.js.map": "/reactproject-01-IncomeNExpendApp/static/js/main.2af5e6f7.chunk.js.map",
+    "runtime-main.js": "/reactproject-01-IncomeNExpendApp/static/js/runtime-main.86d7a6db.js",
+    "runtime-main.js.map": "/reactproject-01-IncomeNExpendApp/static/js/runtime-main.86d7a6db.js.map",
+    "static/js/2.dbbe2f91.chunk.js": "/reactproject-01-IncomeNExpendApp/static/js/2.dbbe2f91.chunk.js",
+    "static/js/2.dbbe2f91.chunk.js.map": "/reactproject-01-IncomeNExpendApp/static/js/2.dbbe2f91.chunk.js.map",
+    "static/js/3.af80a62e.chunk.js": "/reactproject-01-IncomeNExpendApp/static/js/3.af80a62e.chunk.js",
+    "static/js/3.af80a62e.chunk.js.map": "/reactproject-01-IncomeNExpendApp/static/js/3.af80a62e.chunk.js.map",
+    "index.html": "/reactproject-01-IncomeNExpendApp/index.html",
+    "static/css/main.3b98bd6d.chunk.css.map": "/reactproject-01-IncomeNExpendApp/static/css/main.3b98bd6d.chunk.css.map",
+    "static/js/2.dbbe2f91.chunk.js.LICENSE.txt": "/reactproject-01-IncomeNExpendApp/static/js/2.dbbe2f91.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86d7a6db.js",
+    "static/js/2.dbbe2f91.chunk.js",
+    "static/css/main.3b98bd6d.chunk.css",
+    "static/js/main.2af5e6f7.chunk.js"
+  ]
+}
